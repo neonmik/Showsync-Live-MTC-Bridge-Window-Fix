@@ -1,0 +1,5 @@
+A short AppleScript to fix unexpected behavior of Showsync's Live MTC Bridge app in Big Sur (and possibly other OS's). 
+
+This app would appear with the title bar off screen, but the window wasn't resizable, making it impossible to move/use properly. 
+
+This just moves the window to the centre of the main screen so that it can be used as normal.
